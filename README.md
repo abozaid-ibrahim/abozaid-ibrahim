@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**abuzeid-ibrahim/abuzeid-ibrahim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on iOS, web stuff
-- 🌱 I’m currently learning Swift UI
-- 👯 I’m looking to collaborate on BE with kotlin
-- 🤔 I’m looking for help with iOS
-- 💬 Ask me about iOS stuff
-- 📫 How to reach me: abuzeid7@gmail.com
+I'm abozaid, iOS developer..
+
+
+- 🔭 I’m currently live in Berlin, and I'm searching for a vacancy as a senior iOS developer
+- 🌱 I'm open to recieve a feedback on any of my repositories.
+- 👯 I’m looking to collaborate on BE with kotlin, Php (Laravel)
+- 💬 feel free to ping me to help you, discuss some technical stuff, I don't know everything,
+but I will be happy to share my knoweldge and we could support each other.
+- 📫 How to reach me: abuzeid7@gmail.com, +491745684700, linkedIn: https://www.linkedin.com/in/abuzeid-ibrahim/
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Feel free to copy any public piece of code. there are no ownership over my code :)
+
