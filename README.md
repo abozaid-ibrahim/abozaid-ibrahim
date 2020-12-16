@@ -10,9 +10,9 @@ I'm abozaid, iOS developer..
 - 👯 I’m looking to collaborate on BE with kotlin, Php (Laravel)
 - 💬 feel free to ping me to help you, discuss some technical stuff, I don't know everything,
 but I will be happy to share my knoweldge and learn from each other.
-- <p>📫 How to reach me: abuzeid7@gmail.com, +491745684700, <a href="https://www.linkedin.com/in/abuzeid-ibrahim/">LinkedIn<a><p>
 - 😄 Pronouns: ...
 - ⚡ Feel free to copy any public piece of code. there are no ownership over my code :)
+<p>- 📫 How to reach me: abuzeid7@gmail.com, +491745684700, <a href="https://www.linkedin.com/in/abuzeid-ibrahim/">LinkedIn<a><p>
 
 
 
