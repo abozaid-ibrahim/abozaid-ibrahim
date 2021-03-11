@@ -5,7 +5,7 @@
 I'm abozaid, iOS developer..
 
 
-- 🔭  I’m currently live in Berlin, and I'm searching for a vacancy as a senior iOS developer
+- 🔭  I’m currently live in Berlin, Play football, daily doing problem solving if you are interested to join me.
 - 🌱  I'm open to recieve a feedback on any of my repositories.
 - 👯  I’m looking to collaborate on BE with kotlin, Php (Laravel)
 - 💬  Feel free to ping me to help you, discuss some technical stuff, I don't know everything,
