@@ -12,7 +12,7 @@ I'm abozaid, iOS developer..
 but I will be happy to share my knoweldge and learn from each other.
 - 😄  Pronouns: ...
 - ⚡  Feel free to copy any public piece of code. there are no ownership over my code :)
-<p>- 📫 How to reach me: abozaid.ibrahim11@gmail.com, +491745684700, <a href="https://www.linkedin.com/in/abozaid-ibrahim/">LinkedIn<a><p>
+<p>- 📫 How to reach me: abozaid.ibrahim11@gmail.com, <a href="https://www.linkedin.com/in/abozaid-ibrahim/">LinkedIn<a><p>
 
 
 
